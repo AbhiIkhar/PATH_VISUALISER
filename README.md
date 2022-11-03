@@ -1,1 +1,1 @@
-# SOME_PROJECT
+Project is based on Dijstras's
